@@ -1,0 +1,4 @@
+/.env
+/site-packages/**
+/mylib/tmp/**
+__pycache__
